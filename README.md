@@ -84,7 +84,3 @@ git clone https://github.com/<username>/<repo>.git
   - `AudioResultActivity.java` — tampilan hasil transkrip & ringkasan
   - `GeminiSummarizeWorker.java` — ringkasan background via WorkManager
   - `NoteManager.java`, `AudioNoteManager.java` — persistensi lokal
-
-## Lisensi
-
-Tentukan lisensi sesuai kebutuhan kamu (misalnya MIT). Jika belum, kamu bisa menghapus bagian ini atau menambah file `LICENSE`.
