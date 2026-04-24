@@ -13,6 +13,8 @@
 
 Aplikasi Android untuk membantu kamu mengelola **tugas** dan **catatan materi** dengan pengalaman yang modern. Tugasku juga mendukung fitur **rekam audio** lalu menghasilkan **transkrip & ringkasan otomatis** menggunakan AI (Gemini), sehingga materi bisa tersimpan lebih rapi dan mudah dicari.
 
+<img width="2752" height="1536" alt="Gemini_Generated_Image_mjnwtgmjnwtgmjnw (1)" src="https://github.com/user-attachments/assets/3cafa29b-b416-4763-8b5e-39204d11f32a" />
+
 ## Fitur
 
 - **Manajemen Tugas**
