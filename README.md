@@ -46,7 +46,7 @@ Project ini menggunakan API key untuk akses Gemini.
 Tambahkan:
 
 ```properties
-GEMINI_API_KEY=ISI_API_KEY_KAMU_DI_SINI
+GEMINI_API_KEY=ISI_API_KEY
 ```
 
 Lalu pastikan `build.gradle.kts` membaca nilai tersebut dan memasukkannya ke `BuildConfig`.
