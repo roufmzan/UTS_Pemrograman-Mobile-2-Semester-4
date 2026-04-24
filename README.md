@@ -1,5 +1,16 @@
 # Tugasku
 
+|                |                                      |
+| -------------- | ------------------------------------ |
+| Nama           | Ro'uf Muhammad Fauzan                |
+| NIM            | 312410157                            |
+| Kelas          | I.24.1A                              |
+| Universitas    | Universitas Pelita Bangsa            |
+| Mata Kuliah    | Pemrograman Mobile 2                 |
+| Dosen Pengampu | Donny Maulana, S.Kom., M.M.S.I.      |
+| YouTube        | [Tonton Demo]()     |
+| ClickUp        | [Lihat Project]()   |
+
 Aplikasi Android untuk membantu kamu mengelola **tugas** dan **catatan materi** dengan pengalaman yang modern. Tugasku juga mendukung fitur **rekam audio** lalu menghasilkan **transkrip & ringkasan otomatis** menggunakan AI (Gemini), sehingga materi bisa tersimpan lebih rapi dan mudah dicari.
 
 ## Fitur
