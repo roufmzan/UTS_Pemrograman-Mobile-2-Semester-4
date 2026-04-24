@@ -8,7 +8,6 @@
 | Universitas    | Universitas Pelita Bangsa            |
 | Mata Kuliah    | Pemrograman Mobile 2                 |
 | Dosen Pengampu | Donny Maulana, S.Kom., M.M.S.I.      |
-| YouTube        | [Tonton Demo]()     |
 | ClickUp        | [Lihat Project](https://app.clickup.com/90181759596/v/b/6-901812361216-2)   |
 
 Aplikasi Android untuk membantu kamu mengelola **tugas** dan **catatan materi** dengan pengalaman yang modern. Tugasku juga mendukung fitur **rekam audio** lalu menghasilkan **transkrip & ringkasan otomatis** menggunakan AI (Gemini), sehingga materi bisa tersimpan lebih rapi dan mudah dicari.
